@@ -2,7 +2,7 @@
 # SwiftShop 🛍️
 
 <p align="center">
-  <img src="./assets/swiftshop-logo.svg" alt="SwiftShop Logo" width="700"/>
+  <img src="./assets/swiftshop_logo.jpg" alt="SwiftShop Logo" width="700"/>
 </p>
 
 <br/>
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini_AI-powered-orange?style=flat-square&logo=google&logoColor=white" />
+  
 </p>
 
 **SwiftShop** is a high-performance, aesthetically crafted e-commerce platform designed for the modern web. Built with a focus on speed, design precision, and user experience, it offers a premium shopping journey from discovery to checkout.
