@@ -2,7 +2,7 @@
 # SwiftShop 🛍️
 
 <p align="center">
-  <img src="./assets/swiftshop_logo.jpg" alt="SwiftShop Logo" width="700"/>
+  <img src="" alt="SwiftShop Logo" width="700"/>
 </p>
 
 <br/>
