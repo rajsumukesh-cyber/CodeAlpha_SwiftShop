@@ -1,7 +1,25 @@
 # AKULA SUMUKESH RAJ GUPTA
 # SwiftShop 🛍️
 
-![SwiftShop Logo](./assets/swiftshop-logo.svg)
+<p align="center">
+  <img src="./assets/swiftshop-logo.svg" alt="SwiftShop Logo" width="700"/>
+</p>
+
+<br/>
+
+<h1 align="center">SwiftShop 🛍️</h1>
+<p align="center">
+  A premium, full-stack e-commerce experience built with React, Vite, and Tailwind CSS.<br/>
+  Features AI-powered review summaries, dark mode, product comparison, and seamless checkout.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_AI-powered-orange?style=flat-square&logo=google&logoColor=white" />
+</p>
 
 **SwiftShop** is a high-performance, aesthetically crafted e-commerce platform designed for the modern web. Built with a focus on speed, design precision, and user experience, it offers a premium shopping journey from discovery to checkout.
 
