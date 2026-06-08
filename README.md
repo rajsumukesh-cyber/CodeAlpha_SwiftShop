@@ -1,11 +1,5 @@
 # AKULA SUMUKESH RAJ GUPTA
-# SwiftShop 🛍️
 
-<p align="center">
-  <img src="C:\Users\ADMIN\Downloads\SWIFT SHOP.jpg" width="700"/>
-</p>
-
-<br/>
 
 <h1 align="center">SwiftShop 🛍️</h1>
 <p align="center">
